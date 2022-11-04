@@ -14,7 +14,7 @@
 <div align="center">
 <h3>✨ Live Version </h3>
 
-### [You can see the live version here.](https://vue-horse-racing-ed.vercel.app)
+### [You can see the live version here.](https://vue-cookie-component.vercel.app)
 </div>
 
 <div align="center">
@@ -25,7 +25,7 @@
 <div align="center" >
     <h2> 🎆 Project Screenshots </h2>
     <img src="https://user-images.githubusercontent.com/72731296/200065112-0cf3d1a8-ee97-4cf7-af32-c031ba4b5234.png"/>
-    <img src="https://user-images.githubusercontent.com/72731296/200065210-0002c553-d99c-4d87-a2d6-ecc2a2897e30.png"	/>
+    <img src="https://user-images.githubusercontent.com/72731296/200065704-040cc757-b974-4b65-92bc-c105304002b8.png"	/>
     <img src="https://user-images.githubusercontent.com/72731296/200065495-c066b740-eb58-4715-b7a3-94bf31a069da.png"/>
  </div>
 
